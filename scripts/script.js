@@ -2,7 +2,7 @@ const chatBody = document.getElementById("chat-container");
 const message = document.getElementById("message");
 const send = document.getElementById("send");
 
-const apiKey = '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';
+const apiKey = 'Your_API_key';
 let messages = [];
 
 send.addEventListener("click", () => {
